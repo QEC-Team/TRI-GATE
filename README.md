@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="result.gif" width="600" alt="SmartGateAI Logo"/>
+  <img src="result.gif" width="600" alt="TRI-GATE Logo"/>
 </p>
 
-# SmartGateAI
+# TRI-GATE
 
-SmartGateAI is an AI-powered vehicle gate access system designed to enhance security and efficiency. It leverages advanced machine learning and computer vision techniques to verify vehicles, license plates, and drivers in real-time, ensuring a seamless and secure access experience.
+TRI-GATE is an AI-powered vehicle gate access system designed to enhance security and efficiency. It leverages advanced machine learning and computer vision techniques to verify vehicles, license plates, and drivers in real-time, ensuring a seamless and secure access experience.
 
 ---
 
@@ -51,10 +51,13 @@ SmartGateAI is an AI-powered vehicle gate access system designed to enhance secu
 3. Opens the gate for verified entries.
 
 ---
+## Input Video
 
-## Demo
+<video src="InputVideo.MOV" controls width="640"></video>
 
-![SmartGateAI Demo](result.gif)
+## Output (Processed) Video
+
+![TRI-GATE Output (Processed) Video](result.gif)
 
 
 
@@ -64,12 +67,12 @@ SmartGateAI is an AI-powered vehicle gate access system designed to enhance secu
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/QEC-Team/SmartGateAI.git
+   git clone https://github.com/QEC-Team/TRI-GATE.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd SmartGateAI
+   cd TRI-GATE
    ```
 
 3. **Install Dependencies:**
@@ -157,11 +160,12 @@ Contributions are welcome! Follow these steps:
 ## Contact
 
 For questions or suggestions, feel free to reach out to the project team:
-- **Thamer Alghonaim**: thamer.alghonaim@gmail.com
-- **Muhannad Alsultan**: muhannad.a.alsultan@gmail.com
-- **Faisal Alasakakir**: alsakakir.faisal@gmail.com
-- **Bander Alwazzan**: Banrwazzan@gmail.com
-- **Abdullah Alhassan**: alhassan.14x@gmail.com
+- **Abdulaziz Alorf**: aaalorf@qu.edu.sa
+- **Muhannad Alsultan**: 471114070@qu.edu.sa
+- **Bander Alwazzan**: 471113811@qu.edu.sa
+- **Thamer Alghonaim**: T.Alghonaim@signalinlab.ai
+- **Faisal Alasakakir**: F.Alsakakir@signalinlab.ai
+- **Abdullah Alhassan**: A.Alhassan@signalinlab.ai
 
 ---
 
