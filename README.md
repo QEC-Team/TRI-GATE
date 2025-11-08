@@ -54,8 +54,8 @@ TRI-GATE is an AI-powered vehicle gate access system designed to enhance securit
 ## Input Video
 
 <video controls width="640">
-  <source src="https://github.com/user-attachments/assets/aad3e322-8a95-4212-a54b-35e4040f4640" type="video/mp4">
-  <source src="https://github.com/user-attachments/assets/aad3e322-8a95-4212-a54b-35e4040f4640" type="video/quicktime">
+  <source src="https://github.com/user-attachments/assets/52cf51f7-7e07-48d4-90f8-4daca912ccbc" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/52cf51f7-7e07-48d4-90f8-4daca912ccbc" type="video/quicktime">
 </video>
 
 ## Output (Processed) Video
